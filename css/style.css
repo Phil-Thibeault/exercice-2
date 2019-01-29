@@ -93,12 +93,13 @@ body {
   
   .header,
   .footer {
+      text-align: center;
     background-color: green;
   }
   
   .sidebar2 {
     background-color: orangered;
-    color: #444;
+    color: #FFF;
   }
 
   .1 {
