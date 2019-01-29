@@ -12,7 +12,7 @@ body {
     grid-gap: 1em;
     align-items: center;
     text-align: center;
-    background: yellowgreen;
+    background: lightseagreen;
     margin-bottom: 30px;
   }
   
@@ -84,7 +84,7 @@ body {
       }
   
   .box {
-    background-color: orangered;
+    background-color: lightblue;
     color: #fff;
     border-radius: 5px;
     padding: 10px;
@@ -95,7 +95,7 @@ body {
   .header,
   .footer {
       text-align: center;
-    background-color: green;
+    background-color: lightsalmon;
     transform-style: preserve-3d;
     transition: transform 0.9s;
     perspective: 1000px;
@@ -106,7 +106,7 @@ body {
   }
   
   .sidebar2 {
-    background-color: orangered;
+    background-color: lightblue;
     color: #FFF;
   }
 
